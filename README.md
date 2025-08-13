@@ -20,6 +20,32 @@
 
 ---
 
+## 📖 About
+
+This is a **basic and simple** web traffic generation tool designed for beginners and educational purposes. The project focuses on simplicity and ease of use, making it perfect for:
+
+- 🎓 **Learning**: Understanding HTTP requests, web automation, and GUI development
+- 🧪 **Testing**: Basic website load testing and traffic simulation
+- 📚 **Educational**: Teaching concepts of web scraping, proxy usage, and rate limiting
+- 🔰 **Beginner-Friendly**: Simple codebase that's easy to understand and modify
+
+The tool is intentionally kept basic to ensure accessibility for developers of all skill levels while maintaining functionality and safety.
+
+## 📋 Topics
+
+- **Web Traffic Generation**
+- **HTTP Request Automation**
+- **Proxy Rotation**
+- **Multi-Threading**
+- **GUI Development with Flet**
+- **Cookie Management**
+- **Google Search Automation**
+- **Rate Limiting**
+- **Web Scraping Basics**
+- **Educational Programming**
+- **Python Automation**
+- **Testing Tools**
+
 ## 🌟 Features
 
 - **🎯 Direct Bot**: Sends direct HTTP requests to target URLs
