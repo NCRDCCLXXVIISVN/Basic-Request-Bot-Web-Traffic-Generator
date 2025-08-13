@@ -42,8 +42,8 @@
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/Request-Bot.git
-cd Request-Bot
+git clone https://github.com/smtozkn06/Basic-Request-Bot-Web-Traffic-Generator.git
+cd Basic-Request-Bot-Web-Traffic-Generator
 ```
 
 2. **Install dependencies**
