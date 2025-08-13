@@ -1,0 +1,8 @@
+{
+  "proxy_list": "",
+  "num_threads": "10",
+  "target_url": "https://example.com",
+  "cookie_folder": "",
+  "search_query": "example search",
+  "use_search": false
+}

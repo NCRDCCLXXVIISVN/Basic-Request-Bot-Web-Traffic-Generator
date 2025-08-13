@@ -1,0 +1,21 @@
+# Request Bot - Web Traffic Generator Dependencies
+# For testing and educational purposes only
+
+# GUI Framework
+flet>=0.21.0
+
+# HTTP Requests
+requests>=2.31.0
+
+# HTML Parsing
+beautifulsoup4>=4.12.0
+
+# Web Automation (for Google Bot)
+selenium>=4.15.0
+webdriver-manager>=4.0.0
+
+# Additional utilities
+urllib3>=1.26.0
+certifi>=2023.0.0
+charset-normalizer>=3.0.0
+idna>=3.0.0

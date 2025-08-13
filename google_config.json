@@ -1,0 +1,6 @@
+{
+  "proxy_list": "",
+  "num_threads": "10",
+  "search_query": "example search",
+  "target_url": "https://example.com"
+}

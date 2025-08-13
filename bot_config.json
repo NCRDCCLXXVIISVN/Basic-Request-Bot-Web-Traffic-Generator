@@ -1,0 +1,5 @@
+{
+  "proxy_list": [],
+  "num_threads": 10,
+  "target_url": "https://example.com"
+}
